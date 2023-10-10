@@ -18,3 +18,9 @@
   max-height: 250px;
   margin-right: 10px;
 }
+
+.video-div {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
